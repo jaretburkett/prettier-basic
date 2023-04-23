@@ -14,7 +14,6 @@ Then add the following to your `package.json`
 
 ```json
 {
-  ...
   "prettier": "prettier-basic"
 }
 ```
@@ -40,9 +39,7 @@ I like to add an auto format script to my `package.json` as well
 
 ```json
 {
-  ...
   "scripts": {
-    ...
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css,scss,md}\""
   }
 }
