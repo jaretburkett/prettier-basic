@@ -1,0 +1,26 @@
+{
+  "name": "prettier-basic",
+  "version": "1.0.0",
+  "description": "A simple prettier configuration for formatting code",
+  "main": ".prettierrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaretburkett/prettier-basic.git"
+  },
+  "keywords": [
+    "prettier",
+    "format",
+    "config",
+    "standard",
+    "basic"
+  ],
+  "author": "Jaret Burkett <jaretburkett@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaretburkett/prettier-basic/issues"
+  },
+  "homepage": "https://github.com/jaretburkett/prettier-basic#readme"
+}
